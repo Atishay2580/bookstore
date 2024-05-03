@@ -1,0 +1,9 @@
+// 1-> Any javascrpit function which returns HTML is called a react component
+// 2-> File name & Component name should always start with a capital letter only (mandatory)
+// 3-> Angular brackets are used to call a component i.e. '< />'
+// 4-> The process to call or use a component is called rendering
+// Eg. <Student /> calls a component named 'Student'
+// 5-> A react component cannot return mutiple tags, so enclose the multiple tags within a single 'div' or 'fragment' tag which will act as a single parent tag & this single parent tag should be returned
+// 6-> All tags must be closed (mandatory)
+
+// 7-> component should be made inside src folder
